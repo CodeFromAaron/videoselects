@@ -70,6 +70,17 @@ const VIDEOS = [
     "orientation": "wide"
   },
   {
+    "url": "https://vimeo.com/972773600?fl=ip&fe=ec",
+    "title": "Stop Motion Show Reel - 2024",
+    "desc": "made to showcase motion graphics and video editing work.",
+    "tags": [
+      "showreel",
+      "client work",
+      "animation'
+    ],
+    "orientation": "wide"
+  },
+  {
     "url": "https://vimeo.com/915809431?fl=ip&fe=ec",
     "title": "Mountain Goat x SFF",
     "desc": "Cross promotional content for Sydney Film Festival's 70th anniversary.",
