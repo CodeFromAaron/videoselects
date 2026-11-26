@@ -9,16 +9,16 @@ const PROFILE = {
 // tags: no # needed; they build the left-hand menu
 // orientation: "wide" (16:9) or "vertical" (9:16)
 const VIDEOS = [
-    {
+  {
     "url": "https://vimeo.com/1243159675?fl=ip&fe=ec",
     "title": "DEVAURA - Do u Like That?",
     "desc": "Reel from aus music focus. To help folks discover local talent and spice up their playlists.",
     "tags": [
-      "aus music",
+      "ausmusic",
       "socials"
     ],
     "orientation": "vertical"
-  },  
+  },
   {
     "url": "https://vimeo.com/1248134128?fl=ip&fe=ec",
     "title": "I Wear Hats - Short Poem",
@@ -34,7 +34,7 @@ const VIDEOS = [
     "title": "Sesame Girl - Do u Like That?",
     "desc": "Reel from aus music focus. To help folks discover local talent and spice up their playlists.",
     "tags": [
-      "aus music",
+      "ausmusic",
       "socials"
     ],
     "orientation": "vertical"
@@ -47,7 +47,7 @@ const VIDEOS = [
       "socials"
     ],
     "orientation": "vertical"
-  },  
+  },
   {
     "url": "https://youtube.com/shorts/BZ9cLx_S2N8",
     "title": "Nurode - Science of Flow",
@@ -58,7 +58,7 @@ const VIDEOS = [
       "client work"
     ],
     "orientation": "vertical"
-  },  
+  },
   {
     "url": "https://vimeo.com/1250150307?share=copy&fl=sv&fe=ci",
     "title": "Happy Mag - Sizzle Reel 2024",
@@ -76,7 +76,7 @@ const VIDEOS = [
     "tags": [
       "showreel",
       "client work",
-      "animation'
+      "animation"
     ],
     "orientation": "wide"
   },
